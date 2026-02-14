@@ -1,0 +1,5 @@
+{
+  "name": "SonicStream Offline",
+  "description": "A high-performance, aesthetically pleasing offline music player with real-time audio visualization.",
+  "requestFramePermissions": []
+}
